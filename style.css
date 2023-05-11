@@ -1,0 +1,54 @@
+.red_square{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+
+    .green_square{
+        background-color: green;
+        width: 100px;
+        height: 100px;
+    }
+
+.pink_square{
+    background-color: pink;
+    width: 200px;
+    height: 200px;
+}
+
+.blue_square{
+    background-color: blue;
+}
+
+.new_square{
+    background-color: grey;
+    width: 150px;
+    height: 150px;
+}
+
+.zoom_size_square{
+    background-color: grey;
+    width: 170px;
+    height: 170px;
+}
+
+.root1{
+color: blue;
+}
+.invisible{
+    visibility: hidden;
+}
+
+.root2{
+    color: blue;
+    }
+    .invisible{
+        visibility: hidden;
+    }
+    .root3{
+        color: green;
+        transition-delay: 3s;
+        }
+        .invisible{
+            visibility: hidden;
+        }
